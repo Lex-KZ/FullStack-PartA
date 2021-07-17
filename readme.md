@@ -39,7 +39,8 @@ The target audience for the website could be anyone who would like a cake that h
 - Microsoft Excel - user stories and user testing
 ---
 ## Dataflow Diagram
-![DFD-DFD-DeleteUser](docs/DFD-DFD-DeleteUser.png)
+
+![DFD-DFD-DeleteUser](docs/DFD-DeleteUser.png)
 ![DFD-UserEnquiry](docs/DFD-UserEnquiry.png)
 ![DFD-UserLogOut](docs/DFD-UserLogOut.png)
 ![DFD-UserRegistration](docs/DFD-UserRegistration.png)
@@ -49,7 +50,6 @@ The target audience for the website could be anyone who would like a cake that h
 ## Application Architecture Diagram
 
 ![Application Architecture Diagram](docs/screenshots/AAD.png)
-
 
 ---
 ## User Stories
@@ -91,8 +91,6 @@ Trello is the project management tool for this project used for task delegation 
 
 [Trello board](https://trello.com/b/isiWiAy4/t3a2-full-stack-app)
 
-
-![Initial](docs/screenshots/Trello1.png)
 
 ![Trello1](docs/Trello1.png)
 ![Trello2](docs/Trello2.png)
