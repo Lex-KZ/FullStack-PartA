@@ -49,7 +49,7 @@ The target audience for the website could be anyone who would like a cake that h
 ---
 ## Application Architecture Diagram
 
-![Application Architecture Diagram](docs/screenshots/AAD.png)
+![Application Architecture Diagram](docs/AAD.png)
 
 ---
 ## User Stories
