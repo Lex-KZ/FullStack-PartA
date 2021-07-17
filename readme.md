@@ -42,7 +42,7 @@ The target audience for the website could be anyone who would like a cake that h
 ---
 ## Application Architecture Diagram
 ---
-![Application Architecture Diagram](screenshots/AAD.png)
+![Application Architecture Diagram](docs/screenshots/AAD.png)
 
 ## User Stories
 ---
@@ -73,11 +73,13 @@ As a Admin, I want to be able to delete users, so that I can remove inactive or 
 
 ## Wireframes
 ---
+
+
 ## Screenshots of Trello board
 ---
 Trello is the project management tool for this project used for task delegation and project progress. 
 
 [Trello board](https://trello.com/b/isiWiAy4/t3a2-full-stack-app)
 
-![Initial](screenshots/Trello1.png)
+![Initial](docs/screenshots/Trello1.png)
 
