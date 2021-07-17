@@ -3,8 +3,20 @@
 ## Describe your website
 
 ### **Purpose**
+The purpose of the website is for Sprinkles of Joy to be able to showcase the cakes the business offers. The website also allows the business to keep track of the enquiries coming in about the business' services.
 
 ### **Functionality / Features**
+#### Landing Page
+The website will have an elegant landing page that will link only to the cake showcase page. It funnels users straight to the cakes page so that users see the cakes before anything else.
+
+#### Showcase Page
+The showcase page will also double as the home page. The showcase page presents either all cakes that the business offers, the most popular cakes, or the cakes that the business is most proud of. From the showcase page the user can access the cakes' individual pages that will list a description and ingredients list. 
+
+#### Enquiries Page
+The enquiries page is only accessible to users that are logged in. The page contains a contact form that allows the business to receive contact enquiries that will be emailed to the nominated admin email address.
+
+#### Log In/Register
+Users will need to register on the site in order to be able to fill out an enquiries/contact form. Logged in users will also be able to see if they have any upcoming appointments on their profile pages. 
 
 ### **Target Audience**
 The target audience for the website could be anyone who would like a cake that has been professionally made. As we provide a wide range of cakes, this would attract cake enthusiasts, event organisers and any person holding celebratory parties. 
@@ -39,11 +51,11 @@ The target audience for the website could be anyone who would like a cake that h
 - Microsoft Excel - user stories and user testing
 ---
 ## Dataflow Diagram
-![DFD-DFD-DeleteUser](docs/DFD-DFD-DeleteUser.png)
-![DFD-UserEnquiry](docs/DFD-UserEnquiry.png)
+![DFD-DeleteUser](docs/DFD-DeleteUser.png)
 ![DFD-UserLogOut](docs/DFD-UserLogOut.png)
 ![DFD-UserRegistration](docs/DFD-UserRegistration.png)
 ![DFD-UserSignIn](docs/DFD-UserSignIn.png)
+![DFD-UserEnquiry](docs/DFD-Enquiry.png)
 
 ---
 ## Application Architecture Diagram
