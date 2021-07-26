@@ -49,6 +49,7 @@ The target audience for the website could be anyone who would like a cake that h
 - Github - source control repository  
 - Trello - project management tool
 - Microsoft Excel - user stories and user testing
+
 ---
 ## Dataflow Diagram
 ![DFD-DeleteUser](docs/DFD-DeleteUser.png)
@@ -95,16 +96,13 @@ As a Admin, I want to be able to delete users, so that I can remove inactive or 
 ![wireframe-phone](docs/wireframe-phone.png)
 
 ---
-
-
 ## Screenshots of Trello board
 Trello is the project management tool for this project used for task delegation and project progress. We broke down the project into deliverable components and then classified each card under 3 categories, Tshirt sizing (which signifies time and effort required), code or documentation and weather it required both team members to work on it (discussions or brainstorming). Bigger tickets have sub-lists of task when further breakdown is required. Team members are also assigned up against the cards they have been responsible for.    
 
 [Trello board](https://trello.com/b/isiWiAy4/t3a2-full-stack-app)
 
-
 ![Trello1](docs/Trello1.png)
 ![Trello2](docs/Trello2.png)
 ![Trello3](docs/Trello3.png)
-
-
+![Trello4](docs/Trello4.png)
+![Trello5](docs/Trello5.png)
