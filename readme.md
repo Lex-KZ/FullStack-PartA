@@ -1,4 +1,12 @@
-# T3A2 - Full stack App (Part A)
+# T3A2 - Full stack App (Part A and B)
+
+[Sprinkles Of Joy](https://sprinkles-of-joy.netlify.app/)
+
+[Front End Git Repository](https://github.com/Lex-KZ/SprinklesFrontEnd)
+
+[Back End API Git Repository](https://github.com/Mauricepwong/sprinkles-of-joy-api)
+
+[Documentation Git Repository](https://github.com/Lex-KZ/FullStack-PartA)
 
 ## Describe your website
 
@@ -94,6 +102,11 @@ As a Admin, I want to be able to delete users, so that I can remove inactive or 
 ![wireframe-tablet](docs/wireframe-tablet.png)
 ![wireframe-phone](docs/wireframe-phone.png)
 
+### Changes to Design
+There are several small cosmetic changes to the final product compared to the wireframe designs. Firstly, the navigation bar is evenly spaced across all views. It was determined that this mas a more appealing layout.
+
+The logo was also removed from the landing page due to the image used in the background not working aesthetically with it. The text was moved to the side for the same reason. 
+
 ---
 
 
@@ -106,5 +119,4 @@ Trello is the project management tool for this project used for task delegation 
 ![Trello1](docs/Trello1.png)
 ![Trello2](docs/Trello2.png)
 ![Trello3](docs/Trello3.png)
-
 
