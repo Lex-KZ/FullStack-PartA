@@ -1,4 +1,12 @@
-# T3A2 - Full stack App (Part A)
+# T3A2 - Full stack App (Part A and B)
+
+[Sprinkles Of Joy](https://sprinkles-of-joy.netlify.app/)
+
+[Front End Git Repository](https://github.com/Lex-KZ/SprinklesFrontEnd)
+
+[Back End API Git Repository](https://github.com/Mauricepwong/sprinkles-of-joy-api)
+
+[Documentation Git Repository](https://github.com/Lex-KZ/FullStack-PartA)
 
 ## Describe your website
 
@@ -95,6 +103,11 @@ As a Admin, I want to be able to delete users, so that I can remove inactive or 
 ![wireframe-tablet](docs/wireframe-tablet.png)
 ![wireframe-phone](docs/wireframe-phone.png)
 
+### Changes to Design
+There are several small cosmetic changes to the final product compared to the wireframe designs. Firstly, the navigation bar is evenly spaced across all views. It was determined that this mas a more appealing layout.
+
+The logo was also removed from the landing page due to the image used in the background not working aesthetically with it. The text was moved to the side for the same reason. 
+
 ---
 ## Screenshots of Trello board
 Trello is the project management tool for this project used for task delegation and project progress. We broke down the project into deliverable components and then classified each card under 3 categories, Tshirt sizing (which signifies time and effort required), code or documentation and weather it required both team members to work on it (discussions or brainstorming). Bigger tickets have sub-lists of task when further breakdown is required. Team members are also assigned up against the cards they have been responsible for.    
@@ -106,3 +119,4 @@ Trello is the project management tool for this project used for task delegation 
 ![Trello3](docs/Trello3.png)
 ![Trello4](docs/Trello4.png)
 ![Trello5](docs/Trello5.png)
+
